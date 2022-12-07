@@ -83,4 +83,5 @@ arquivo com o nome exato)
 - Ativar recuperar senha, se registrar, mudar username, verificar email, requer tls, remover sessao, log, exibir permissões que usuário terá acesso, etc
 - Mudar formulario de cadastro, como campos, ou acessar via api, acesso via github, google, etc
 - Remover todas as sessions que x usuário esta logado
+- Possivel importar e exportar configurações de realm do Keycloak
 - Em Client, e possivel ver os endpoints do OpenID connect endpoints ou SAML
