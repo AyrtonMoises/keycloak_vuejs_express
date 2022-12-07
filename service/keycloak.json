@@ -1,0 +1,12 @@
+{
+  "realm": "myrealm",
+  "auth-server-url": "http://172.17.0.1:8081/",
+  "ssl-required": "external",
+  "resource": "node-microservice",
+  "verify-token-audience": true,
+  "credentials": {
+    "secret": "bIkojM5W5qa1sjxDkYGBIew4bsGGpvvG"
+  },
+  "confidential-port": 0,
+  "policy-enforcer": {}
+}
